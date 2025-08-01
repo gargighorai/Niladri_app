@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Environment
+.env
+.env.*
+
+# Virtualenv
+venv/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PDF generated
+*.pdf
+
+# Cache
+.cache/
+*.egg-info/
+dist/
+build/
+
+# Flask instance folder
+instance/
